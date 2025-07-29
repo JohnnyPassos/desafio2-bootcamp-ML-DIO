@@ -22,8 +22,8 @@ Você pode executar este projeto facilmente no Google Colab, onde ele foi desenv
 2.  **Abra o Notebook:**
     * No menu do Colab, selecione `File > Open notebook`.
     * Vá para a aba `GitHub`.
-    * Cole o link do seu repositório (ex: `https://github.com/JohnnyPassos/desafio2-bootcamp-ML-DIO`) e pressione Enter.
-    * Selecione o arquivo `desafio_processamento_imagem.ipynb` (ou o nome do seu notebook).
+    * Cole o link do repositório `https://github.com/JohnnyPassos/desafio2-bootcamp-ML-DIO` e pressione Enter.
+    * Selecione o arquivo `RedimensionamentoIMG.ipynb`.
 3.  **Execute as Células:**
     * Certifique-se de que a imagem `street.jpg` está no diretório raiz do Colab (se você a subiu arrastando para a barra lateral). O código já está configurado para procurá-la como `/street.jpg`.
     * Execute todas as células do notebook sequencialmente. Isso fará as importações, definirá as funções, carregará a imagem e exibirá os resultados.

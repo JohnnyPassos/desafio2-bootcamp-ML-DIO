@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/ # Se estiver usando VS Code localmente
+.DS_Store # Mac OS
+
+# Dados / Outputs (se você não quiser subir arquivos grandes ou gerados)
+output/
+resultados/
+*.log
+*.txt # Ajuste se precisar de arquivos de texto que não são log

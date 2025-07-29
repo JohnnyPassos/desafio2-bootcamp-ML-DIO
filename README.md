@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-Este projeto foi desenvolvido como parte do Desafio 2 do Bootcamp de Machine Learning oferecido pela DIO. O objetivo principal é implementar, do zero e sem o uso de bibliotecas de processamento de imagem (como OpenCV), funções Python para redimensionar uma imagem colorida de duas formas:
+Este projeto foi desenvolvido como parte do Desafio 2 do Bootcamp de Machine Learning oferecido pela DIO pela Baires Dev. O objetivo principal é implementar, do zero e sem o uso de bibliotecas de processamento de imagem (como OpenCV), funções Python para redimensionar uma imagem colorida de duas formas:
 
 1.  **Conversão para Tons de Cinza:** Transformar a imagem colorida para uma escala de 0 a 255 tons de cinza.
 2.  **Conversão para Preto e Branco (Binária):** Binarizar a imagem (transformá-la em pixels apenas pretos ou brancos) a partir de sua versão em tons de cinza, utilizando um limiar.
